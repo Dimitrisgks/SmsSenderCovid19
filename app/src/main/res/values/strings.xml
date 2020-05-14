@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CovidSms</string>
+
+    <string name="Btns">Αποθήκευση</string>
+    <string name="Btn0">Φαρμακείο ή Γιατρό</string>
+    <string name="Btn1">Σούπερ μάρκετ</string>
+    <string name="Btn2">Τράπεζα</string>
+    <string name="Btn3">Βοήθεια ανθρώπων σε ανάγκη</string>
+    <string name="Btn4">Μετάβαση σε τελετή</string>
+    <string name="Btn5">Σωματική άσκηση ή κίνηση με κατοικίδιο</string>
+    <string name="BtnO">Ονοματεπώνυμο:</string>
+    <string name="BtnD">Διεύθυνση Κατοικίας:</string>
+</resources>
